@@ -1,3 +1,3 @@
-module github.com/tsakishii/multiply-naive
+module github.com/tsakishii/go-playground
 
 go 1.24.2
